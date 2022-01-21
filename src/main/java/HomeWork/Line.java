@@ -1,5 +1,8 @@
-package HomeWork;
+/*6. Распечатать на экране числа от 1 до 100.
 
+ */
+
+package HomeWork;
 public class Line {
     public static void main(String[] args) {
         //Task Nr. 06

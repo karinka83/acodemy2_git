@@ -1,3 +1,7 @@
+/* 4. Создать массив с числами от 0 до 10 и распечатать только те четные числа.
+
+ */
+
 package HomeWork;
 
 public class MassiveNumbers {

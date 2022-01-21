@@ -1,3 +1,7 @@
+/* 8. Распечатайте на экране таблицу умножения (от 1 до 10).
+
+ */
+
 package HomeWork;
 
 public class MultiPlicationTable {

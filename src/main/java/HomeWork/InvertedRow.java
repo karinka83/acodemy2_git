@@ -1,3 +1,7 @@
+/* 7. Распечатать на экране числа от 50 до 1.
+
+ */
+
 package HomeWork;
 
 public class InvertedRow {
